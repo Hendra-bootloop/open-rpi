@@ -17,7 +17,7 @@ Deliver high-quality code with minimal scope and context creep, leveraging Kit M
 There is no one-size-fits-all agent system. This is a starting point that you can customize further based on your projects and workflows.
 There are many possible improvements and variations. Feel free to experiment and adapt the system to your needs and suggest improvements.
 
-I am keen to hear your feedback and ideas! Please open issues so we can improve this together.
+I am keen to hear your feedback and ideas! Please open issues or discussions on GitHub so we can improve this together.
 
 ## Features
 
